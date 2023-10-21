@@ -95,17 +95,16 @@ os.system("rm -rf .f2")
 
 logo= f'''
 
- #     #    #     #####  ####### ####### #     # 
-  #   #    # #   #     # #       #       ##    # 
-   # #    #   #  #       #       #       # #   # 
-    #    #     #  #####  #####   #####   #  #  # 
-    #    #######       # #       #       #   # # 
-    #    #     # #     # #       #       #    ## 
-    #    #     #  #####  ####### ####### #    # 
-                                                                                             
+ 
+K  K  OOO  K  K  OOO  
+K K  O   O K K  O   O 
+KK   O   O KK   O   O 
+K K  O   O K K  O   O 
+K  K  OOO  K  K  OOO  
+                                                                                                                
 {50*"-"}
-    Tool Version :     0.0
-    Thanks Alot  :     Mr YASEEN
+    Tool Version :     1.0
+    Facebook.     :     Mr YASEEN
 {50*"-"}'''
 
 #--(Dark@Colours)---#
