@@ -95,12 +95,13 @@ os.system("rm -rf .f2")
 
 logo= f'''
 
- 
-K  K  OOO  K  K  OOO  
-K K  O   O K K  O   O 
-KK   O   O KK   O   O 
-K K  O   O K K  O   O 
-K  K  OOO  K  K  OOO  
+#    # ####### #    # ####### 
+ #   #  #     # #   #  #     # 
+ #  #   #     # #  #   #     # 
+ ###    #     # ###    #     # 
+ #  #   #     # #  #   #     # 
+ #   #  #     # #   #  #     # 
+ #    # ####### #    # ####### 
                                                                                                                 
 {50*"-"}
     Tool Version :     1.0
